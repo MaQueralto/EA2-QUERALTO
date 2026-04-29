@@ -4,6 +4,7 @@ import os         # Para leer variables de entorno
 from dotenv import load_dotenv 
 
 load_dotenv()
+# Autor: MaQueralto — EA2 
 
 # ============================================================
 # ZONA: CONFIGURACIÓN
