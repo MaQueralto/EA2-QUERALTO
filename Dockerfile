@@ -1,3 +1,4 @@
+# Dockerfile — NBA Stats EA2
 # Usamos Python 3.11 liviano como base
 FROM python:3.11-slim
 
