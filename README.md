@@ -78,3 +78,7 @@ EA2-Queralto/
 ## 👨‍💻 Autor
 
 Desarrollado por [Matias Queralto] — DuocUC.
+
+
+## 📝 Notas
+- Proyecto desarrollado para EA2 — DuocUC 2026
